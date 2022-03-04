@@ -1,2 +1,6 @@
 # This is my first file
 print 'This is my first file'
+name='fawad'
+version='Rstudio version control'
+print(name)
+print('these lines have been written in Rstudio')
